@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "423320866135",
+    "firebase_url": "https://superapka-cf04a.firebaseio.com",
+    "project_id": "superapka-cf04a",
+    "storage_bucket": "superapka-cf04a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423320866135:android:d0ee1c05d71afe2061c212",
+        "android_client_info": {
+          "package_name": "com.github.ewolak.superappka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423320866135-pcrrbuuoei0ekmaeti5mncl1as5bhsb0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.github.ewolak.superappka",
+            "certificate_hash": "daf9c26bd9a64346be5b6455febe1a11563c36bd"
+          }
+        },
+        {
+          "client_id": "423320866135-fn5bdtg5dig0vvn8ouve82555d9oh79k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx6oeqfBVzR_BuA6PzOvtN3UyzECyVxpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423320866135-fn5bdtg5dig0vvn8ouve82555d9oh79k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
